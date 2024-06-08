@@ -1,2 +1,2 @@
-# learn-react
-learn-react
+# learn-next
+learn-next
